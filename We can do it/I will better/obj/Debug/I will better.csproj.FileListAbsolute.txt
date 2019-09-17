@@ -1,0 +1,9 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\bin\Debug\I will better.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\bin\Debug\I will better.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\bin\Debug\I will better.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I will better.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I_will_better.frmMain.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I_will_better.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I will better.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I will better.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I will better.pdb

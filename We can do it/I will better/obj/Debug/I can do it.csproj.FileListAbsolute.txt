@@ -1,0 +1,23 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I_will_better.frmMain.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I_will_better.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I can do it.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I will better.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\bin\Debug\I will better.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\bin\Debug\I will better.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\bin\Debug\I will better.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I will better.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I can do it.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\I will better\I will better\obj\Debug\I_will_better.frmSetting.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\We can do it\I will better\bin\Debug\I will better.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\We can do it\I will better\obj\Debug\I will better.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\We can do it\I will better\obj\Debug\I will better.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\bin\Debug\I will better.exe.config
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I will better.exe
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I will better.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\bin\Debug\I will better.exe
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\bin\Debug\I will better.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I can do it.csprojResolveAssemblyReference.cache
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I_will_better.frmMain.resources
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I_will_better.frmSetting.resources
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I_will_better.Properties.Resources.resources
+D:\2018_HK2\2018_TU HOC WINFORM\We can do it\I will better\obj\Debug\I can do it.csproj.GenerateResource.Cache

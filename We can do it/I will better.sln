@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I can do it", "I will better\I can do it.csproj", "{20BA02D8-D6FE-44BC-99D2-16DDAD77AA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BA02D8-D6FE-44BC-99D2-16DDAD77AA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BA02D8-D6FE-44BC-99D2-16DDAD77AA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BA02D8-D6FE-44BC-99D2-16DDAD77AA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BA02D8-D6FE-44BC-99D2-16DDAD77AA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
